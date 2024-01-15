@@ -16,7 +16,7 @@ const Nav = () => {
               <a href="#quem_somos" className="hover:text-slate-800 text-xl">Quem somos</a>
             </li>
             <li>
-              <a href="#trabalhos" className="hover:text-slate-800 text-xl">Trabalhos</a>
+              <a href="#galeria" className="hover:text-slate-800 text-xl">Galeria</a>
             </li>
             <li>
               <a href="#contactos" className="hover:text-slate-800 text-xl">Contactos</a>

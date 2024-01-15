@@ -1,11 +1,17 @@
 const Gallery = () => {
   return (
-    <>
-      <h2 className="text-6xl m-5">Galeria</h2>
-      <div className="flex flex-row flex-wrap">
-        empty
 
+    <>
+      <div>
+        <a id="galeria"></a>
       </div>
+      <section>
+        <p className="text-6xl m-10">Galeria</p>
+        <div className="flex flex-row flex-wrap">
+          <p>test test</p>
+        </div>
+      </section>
+
     </>
   )
 }
