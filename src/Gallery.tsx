@@ -8,7 +8,6 @@ const Gallery = () => {
       <section>
         <p className="text-6xl m-10">Galeria</p>
         <div className="flex flex-row flex-wrap">
-          <p>test test</p>
         </div>
       </section>
 
