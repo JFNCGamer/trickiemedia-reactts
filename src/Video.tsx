@@ -1,16 +1,5 @@
-
 const Video = () => {
-  return (
-    <>
+  return <></>;
+};
 
-
-
-
-
-
-    
-    </>
-  )
-}
-
-export default Video
+export default Video;
