@@ -1,6 +1,7 @@
 const Gallery = () => {
   return (
     <>
+      {/*
       <div>
         <a id="galeria"></a>
       </div>
@@ -8,6 +9,7 @@ const Gallery = () => {
         <p className="text-6xl m-10">Galeria</p>
         <div className="flex flex-row flex-wrap"></div>
       </section>
+  */}
     </>
   );
 };

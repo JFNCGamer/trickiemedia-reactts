@@ -3,7 +3,7 @@ const Contacts = () => {
     <footer id="contactos" className=" m-auto text-center items-center">
       <p className=" m-6 text-5xl">Contactos</p>
 
-      <div className="flex flex-row justify-center mb-10">
+      <div className="flex flex-col md:flex-row justify-center mb-10 text-wrap">
         <div className="flex flex-col">
           <a href="tel:965354682" className="text-xl mx-5">
             351+ 965354682
@@ -16,7 +16,7 @@ const Contacts = () => {
           </a>
         </div>
 
-        <div className="flex flex-row">
+        <div className="flex flex-row justify-center text-wrap">
           <button className="text-4xl m-5">
             <i className="fa-brands fa-instagram"></i>
           </button>

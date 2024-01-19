@@ -16,12 +16,12 @@ const Nav = () => {
           <ul className=" mx-5 flex gap-8 justify-items-center">
             <li>
               <a href="#quem_somos" className="hover:text-slate-800 text-xl">
-                Quem somos
+                <p>Quem somos</p>
               </a>
             </li>
             <li>
               <a href="#galeria" className="hover:text-slate-800 text-xl">
-                Galeria
+                <p>Galeria</p>
               </a>
             </li>
             <li>
