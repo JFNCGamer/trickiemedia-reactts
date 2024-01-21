@@ -1,7 +1,6 @@
 const Gallery = () => {
   return (
     <>
-      {/*
       <div>
         <a id="galeria"></a>
       </div>
@@ -11,7 +10,6 @@ const Gallery = () => {
           <p>teste</p>
         </div>
       </section>
-  */}
     </>
   );
 };
