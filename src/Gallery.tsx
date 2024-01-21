@@ -1,7 +1,7 @@
 const Gallery = () => {
   return (
-
     <>
+      {/*
       <div>
         <a id="galeria"></a>
       </div>
@@ -11,9 +11,9 @@ const Gallery = () => {
           <p>teste</p>
         </div>
       </section>
-
+  */}
     </>
-  )
-}
+  );
+};
 
-export default Gallery
+export default Gallery;
