@@ -17,15 +17,21 @@ const Contacts = () => {
         </div>
 
         <div className="flex flex-row justify-center text-wrap">
-          <button className="text-4xl m-5">
+          <a href="">
+          <button className="text-4xl m-5" title="Instagram" >
             <i className="fa-brands fa-instagram"></i>
           </button>
-          <button className="text-4xl m-5">
+          </a>
+          <a href="">
+          <button className="text-4xl m-5" title="Linkedin">
             <i className="fa-brands fa-linkedin"></i>
           </button>
-          <button className="text-4xl m-5">
+          </a>
+          <a href="">
+          <button className="text-4xl m-5" title="Vimeo">
             <i className="fa-brands fa-vimeo"></i>
           </button>
+          </a>
         </div>
       </div>
     </footer>

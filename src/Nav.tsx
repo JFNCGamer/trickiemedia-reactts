@@ -1,13 +1,18 @@
-const Nav = () => {
+import Logo from './assets/trickie.png'
+
+const Nav = () => { 
+
+  
   return (
     <>
       <a id="nav"></a>
       <header className="bg-slate-100 z-50 flex top-0 sticky justify-between justify-items-center items-center m-0">
         <div className="flex justify-start justify-items-center items-center">
-          <a href="#nav">
+          <a href="index.html">
             <img
-              className="w-20 h-14 m-5"
-              src="https://picsum.photos/seed/picsum/200/300"
+              src={Logo}
+              className="w-28 h-16 m-5"
+              alt="Logotipo"
             ></img>
           </a>
           <h1 className="text-3xl">Trickie Media</h1>
