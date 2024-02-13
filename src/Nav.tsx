@@ -15,7 +15,7 @@ const Nav = () => {
               alt="Logotipo"
             ></img>
           </a>
-          <h1 className="text-3xl">Trickie Media</h1>
+          <h1 className="text-3xl font-Poppins ">Trickie Media</h1>
         </div>
         <div className="hidden md:block">
           <ul className=" mx-5 flex gap-8 justify-items-center">
@@ -26,7 +26,7 @@ const Nav = () => {
             </li>
             <li>
               <a href="#galeria" className="hover:text-slate-800 text-xl">
-                <p>Galeria</p>
+                <p>Serviços</p>
               </a>
             </li>
             <li>
