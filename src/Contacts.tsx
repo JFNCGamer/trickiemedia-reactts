@@ -1,7 +1,7 @@
 const Contacts = () => {
   return (
     <footer id="contactos" className=" m-auto text-center items-center">
-      <p className=" m-6 text-5xl font-Poppins">Contactos</p>
+      <p className=" m-6 text-5xl font-poppins">Contactos</p>
 
       <div className="flex flex-col sm:flex-row justify-evenly mb-15 text-wrap">
         <div className="flex flex-col mb-2">

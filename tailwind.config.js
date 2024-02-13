@@ -8,7 +8,7 @@ export default {
     extend: {
 
       fontFamily: {
-        Poppins: ['Poppins']
+        poppins: ['Poppins']
       }
     },
   },
