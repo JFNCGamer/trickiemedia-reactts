@@ -15,7 +15,7 @@ const Nav = () => {
               alt="Logotipo"
             ></img>
           </a>
-          <h1 className="text-3xl font-poppins ">Trickie Media</h1>
+          <h1 className="text-3xl font-poppins text-black">Trickie Media</h1>
         </div>
         <div className="hidden md:block">
           <ul className=" mx-5 flex gap-8 justify-items-center">
